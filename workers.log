@@ -1,0 +1,11 @@
+2023/08/09 15:08:53 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-vd678, TotalCpus: 4
+2023/08/09 15:08:53 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-bdglx, TotalCpus: 8
+2023/08/09 15:08:53 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-f9z45, TotalCpus: 8
+2023/08/09 15:08:53 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-g6v8v, TotalCpus: 4
+2023/08/09 15:08:53 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-gfgbc, TotalCpus: 8
+2023/08/09 15:08:53 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-sjpwz, TotalCpus: 4
+2023/08/09 15:08:53 worker_claimed: 0, cpu_claimed: 0, total_workers: 6, total_cpus: 36, jobs_idle: 0
+2023/08/09 15:09:23 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-vd678, TotalCpus: 4
+2023/08/09 15:09:23 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-g6v8v, TotalCpus: 4
+2023/08/09 15:09:23 State: Unclaimed, Arch: X86_64, Hostname: htcondor-worker-84698d45dc-sjpwz, TotalCpus: 4
+2023/08/09 15:09:23 worker_claimed: 0, cpu_claimed: 0, total_workers: 3, total_cpus: 12, jobs_idle: 0
